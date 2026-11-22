@@ -1,5 +1,7 @@
 # E-commerce website for cloths
 
+> **Live demo retired.** The hosted Postgres database (Railway trial) has ended, so the demo is offline. The code still runs locally with your own Postgres server (see below). This was a bachelor's project and is no longer maintained.
+
 This is a web application developed using Django.
 
 ![Screenshot](/shop/static/images/sc1.PNG)
